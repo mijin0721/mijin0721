@@ -36,7 +36,3 @@
   <a href="https://blog.naver.com/kgmi2010"><img src="https://img.shields.io/badge/Naver Blog-03C75A?style=flat&logo=Naver&logoColor=white"/></a>
   <a href="https://www.instagram.com/goobu_sw721/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </div>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mijin0721)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mijin0721&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
